@@ -36,3 +36,4 @@ Customization: Allows for custom suggestions tailored to your coding style or pr
 This extension aims to streamline the coding process, making it faster and more efficient for developers.
 # Summary:
 The VS Code Suggestion Extension is a powerful tool for developers, making it easier to manage code, search for information, and get custom suggestions directly within VS Code. It's built using modern web technologies and integrates smoothly with the editor, offering a range of features to enhance your development workflow. Feel free to reach out with any questions or suggestions.
+This is related to gameGenie
